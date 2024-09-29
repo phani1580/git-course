@@ -2,3 +2,4 @@ Hello Git!!
 Hello Git!!
 Hello Git!!
 I made some changes to understand difference.
+Added creds and readme files to directory.

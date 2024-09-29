@@ -1,0 +1,1 @@
+Adding all details to the project.

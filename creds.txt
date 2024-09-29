@@ -1,0 +1,2 @@
+username: git
+password: telusko
